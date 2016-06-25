@@ -11,4 +11,12 @@
     <string name="title_activity_splash_screen">SplashScreenActivity</string>
 
     <string name="no_internet_error_msg">Unable to connect to the Internet. Please check your connection settings and try again.</string>
+    <string name="title_activity_event_details">EventDetailsActivity</string>
+
+    <string name="event_title">Title</string>
+    <string name="date">DD/MM/YYYY</string>
+    <string name="time">HH:MM</string>
+    <string name="location">Location</string>
+    <string name="description">Please provide more information on the activity</string>
+    <string name="title_activity_create_event">Create Event</string>
 </resources>
